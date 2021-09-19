@@ -1,0 +1,1 @@
+[setupvars.sh] OpenVINO environment initialized
