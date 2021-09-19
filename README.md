@@ -1,1 +1,2 @@
-# Smart-Queuing-System
+## Intel Edge AI Scholarship - Nanodegree Project
+## Smart-Queuing-System
